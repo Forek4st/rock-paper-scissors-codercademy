@@ -1,0 +1,15 @@
+{
+  "name": "rock-paper-scissors-codercademy",
+  "version": "1.0.0",
+  "description": "project made on js course on codercademy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node app.js"
+  },
+  "author": "Forek4st",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
